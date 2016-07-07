@@ -1,0 +1,8 @@
+/* * { border: solid 1px red; } */
+body {max-width: 1100px; margin: auto; }
+figure { display: block; padding: 20px; float: left; width: 40%; max-width: 400px; }
+.photo { width: 100%; }
+figcaption { font-size: small; display: block; width: 100%; }
+.text { padding: 20px; }
+.length { font-style: italic; }
+ul { list-style-position: inside; }
